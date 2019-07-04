@@ -1,2 +1,0 @@
-# VWO-SDK
-VWO SDK

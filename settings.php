@@ -1,2 +1,0 @@
-<?php
-echo '{"sdkKey":"ea87170ad94079aa190bc7c9b85d26fb","campaigns":[{"goals":[{"identifier":"REVENUE","id":2,"type":"REVENUE_TRACKING"},{"identifier":"CUSTOM","id":208,"type":"CUSTOM_GOAL"}],"variations":[{"id":1,"name":"Control","changes":{},"weight":50},{"id":2,"name":"Variation-1","changes":{},"weight":50}],"id":225,"percentTraffic":100,"key":"FIRST","status":"RUNNING","type":"VISUAL_AB"}],"accountId":60781,"version":2}';
